@@ -1,4 +1,5 @@
 - https://www.freecodecamp.org/news/testing-react-hooks/
+- look at the commits for samples of different testing scenarios.
 
 # What to Test in a React Component
 - It must render: At the very least, make sure the component renders without error. This verifies there are no JSX syntax errors, that all variables are defined, etc. This could be as simple as verifying that the rendered output is not null.
